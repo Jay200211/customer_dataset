@@ -9,7 +9,7 @@ This project focuses on **data cleaning and exploratory data analysis (EDA)** on
 
 
 
-## 🧠 Objectives
+## 🧠 Objectives 
 
 * Clean and preprocess raw customer call data
 * Handle missing values and duplicates
